@@ -1,0 +1,20 @@
+#start-btn
+{
+    width: 10%;
+    background-color: rgb(67, 141, 195);
+} 
+#webcam,#selfie
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
